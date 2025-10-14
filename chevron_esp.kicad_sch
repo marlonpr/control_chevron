@@ -3903,7 +3903,7 @@
 	)
 	(text "OUT"
 		(exclude_from_sim no)
-		(at 251.968 79.756 0)
+		(at 261.874 68.326 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3913,7 +3913,7 @@
 	)
 	(text "IN"
 		(exclude_from_sim no)
-		(at 297.18 68.58 0)
+		(at 296.418 66.802 0)
 		(effects
 			(font
 				(size 1.27 1.27)
